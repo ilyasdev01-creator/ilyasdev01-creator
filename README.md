@@ -6,7 +6,7 @@ JavaScript, TypeScript, React, Node.js, and Python are my playgrounds.
 Always learning. Always shipping. ⚡
 
 📊 GitHub Stats
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=percentile" height="160" /> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="160" /> </div>
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ilyasdev01-creator&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=percentile" height="160" /> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ilyasdev01-creator&layout=compact&theme=tokyonight&hide_border=true" height="160" /> </div>
 🛠️ Tech Stack
 <div align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="35" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="35" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="35" /> </div>
 🌐 Connect With Me
