@@ -10,7 +10,7 @@ I'm always learning. Always shipping. ⚡
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ilyasdev01-creator&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=percentile" height="170" />
+  [<img src="https://github-readme-stats.vercel.app/api?username=ilyasdev01-creator&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=percentile" height="170" />](https://github-readme-stats.vercel.app/api?username=ilyasdev01-creator)
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilyasdev01-creator&layout=compact&theme=tokyonight&hide_border=true" height="170" />
 </div>
 
