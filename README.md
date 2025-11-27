@@ -83,7 +83,7 @@ I'm always learning. Always shipping. ⚡
 
 <div align="center">
   
-![Contribution Snake](https://raw.githubusercontent.com/ilyasdev01-creator/ilyasdev01-creator/output/github-contribution-grid-snake.svg)
+![Contribution Snake](https://raw.githubusercontent.com/ilyasdev01-creator/ilyasdev01-creator/output/snake.svg)
 
 </div>
 
